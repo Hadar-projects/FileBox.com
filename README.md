@@ -1,1 +1,1 @@
-File-Box is a website where you can store files and folders you don't need right now. If you have an old folder or file that you can't find on your computer, you can download it again from the website. It’s currently in beta and will be updated with improvements to make it more efficient and user-friendly.
+fileBox is a website where you can save files you don't need or website projects and delete them from your computer. Why do I need it? Because if you need the files or projects you deleted from your computer in the future, you can download them on the website.
