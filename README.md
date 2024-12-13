@@ -1,1 +1,1 @@
-fileBox is a website where you can save files you don't need or website projects and delete them from your computer. Why do I need it? Because if you need the files or projects you deleted from your computer in the future, you can download them on the website.
+fileBox is a website where you can save files you don't need or website projects and delete them from your computer. Why do I need it? Because if you need the files or projects you deleted from your computer in the future, you can download them on the site again.
